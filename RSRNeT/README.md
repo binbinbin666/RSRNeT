@@ -1,8 +1,8 @@
 # RSRNeT
-The overall architecture of RSRNeT.
+### The overall architecture of RSRNeT.
 ![image](architecture.jpg)
 
- Performance comparison of the proposed method with different baseline methods
+### Performance comparison of the proposed method with different baseline methods
 ![image](performance.jpg)
 
 Requirements
@@ -144,4 +144,4 @@ The acquisition of Twitter15 and Twitter17 data refer to the code from [UMT](htt
 
 The acquisition of MNRE data for multimodal relation extraction task refer to the code from [MEGA](https://github.com/thecharm/Mega), many thanks.
 
-```
+We make improvements based on [HVPNeT](https://github.com/zjunlp/HVPNeT), many thanks.
